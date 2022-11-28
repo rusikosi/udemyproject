@@ -73,6 +73,7 @@ alert(`Тебе ${age} лет!`);
 
 */
 
+
 /* let isBoss = confirm('Are you a boss here?');
 alert( isBoss ); */ 
 
@@ -115,7 +116,7 @@ alert(`Hallo, ${user}`);
 
 */
 
-
+/*
 console.log('arr' + ' - object');
 console.log(4 + '5');
 
@@ -149,7 +150,7 @@ console.log(2*4 === 8); // === строгое //true число и число и
 
 || // или // работает когда хотя бы одно из выражений - это правда
 */
-
+/*
 const isChecked = false,
       isClose = false;
 
@@ -163,6 +164,6 @@ const isChecked = false,
 
 console.log(2 + 2 * 2 != 8); // !8 те не равен восьми// true
 
-
+*/
 
 
